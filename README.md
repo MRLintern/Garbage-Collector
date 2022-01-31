@@ -6,7 +6,7 @@ A memory leak occurs when a program incorrectly manages memory allocations in a 
 that memory which is no longer needed is not released.
 
 # Building the Application
-The compiler used is g++ from the GNU Compiler Collection. You can also usee gcc.
+The compiler used is g++ from the GNU Compiler Collection. You can also use gcc.
 
 Compiling:
 
