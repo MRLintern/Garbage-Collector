@@ -11,5 +11,8 @@ The compiler used is g++ from the GNU Compiler Collection. You can also usee gcc
 Compiling:
 
 ``$ ./make``
+
+And then:
+
 ``$ ./compiled``
 
