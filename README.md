@@ -12,7 +12,7 @@
 * `$ cd Garbage-Collector`
 * The compiler used is g++ from the GNU Compiler Collection. You can also use gcc.
 * Make the executable:
-*`$ make`
+* `$ make`
 * Run the executable:
-*`$./compiled`
+* `$./compiled`
 
